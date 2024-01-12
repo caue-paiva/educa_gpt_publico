@@ -3,9 +3,9 @@
 
 :us:
 
-## Educational Chatbot tailored for Brazilian High School students
+# Educational Chatbot tailored for Brazilian High School students
 
-# About the project:
+## About the project
 
 This project is part of a [research grant program](http://lattes.cnpq.br/2223448141926231) with the  **Brazilian National Council for Scientific and Technological Development (CNPq)** for the **R&D of Artificial Intelligence tech for educational purposes** within the reality of Brazilian High school students.
 
@@ -60,9 +60,9 @@ Running on local URL:  http://127.0.0.1:7860
 
 
 
-## Chatbot Educacional personalizado para estudantes do Ensino Médio Brasileiro
+# Chatbot Educacional personalizado para estudantes do Ensino Médio Brasileiro
 
-## Sobre o projeto:
+## Sobre o projeto
 
 Este projeto faz parte de um [programa de bolsas de pesquisa](http://lattes.cnpq.br/2223448141926231) com o Conselho Nacional de Desenvolvimento Científico e Tecnológico **(CNPq)** do Brasil para a **P&D de tecnologia de Inteligência Artificial para fins educacionais**  dentro da realidade dos estudantes do Ensino Médio Brasileiro.
 
