@@ -9,15 +9,15 @@
 
 This project is part of a [research grant program](http://lattes.cnpq.br/2223448141926231) with the  **Brazilian National Council for Scientific and Technological Development (CNPq)** for the **R&D of Artificial Intelligence tech for educational purposes** within the reality of Brazilian High school students.
 
-This projects builds upon the educational capabilities of Large Language Models (ex: GPT-3.5 and GPT-4) for education , while also seeking to **mitigate weaknesses** such as hallucination and lack of knowledge about certain subjects and tests within the **brazilian university admittance standardized test (ENEM)**.
+This project builds upon the educational capabilities of Large Language Models (ex: GPT-3.5 and GPT-4) for education ,while also seeking to **mitigate weaknesses** such as hallucination and lack of knowledge about certain subjects and tests within the **brazilian university admittance standardized test (ENEM)**.
 
 To achieve these results an **LLM application**, using openAI models (gpt-3.5 turbo or gpt-4), along with aditional modules for extra functionality was developed.
 
 The modules in question are:
 
-* **Document retrieval** for ENEM questions,trough a vectorDB (Qdrant) , allowing for students to dissert them with the LLM and train for that test.
+* **Document retrieval** for ENEM questions, through a vectorDB(Qdrant), allowing for students to dissert them with the LLM and train for that test.
 
-* **Internet search** for sources trough Google Search API, so that students can see the sources behind statements made by the LLM.
+* **Internet search** for sources through Google Search API, so that students can see the sources behind statements made by the LLM.
 
 * **User performance tracker** for use in combination with the questions retriever, so that users can see and track their % of correctly answered questions for each subject.
 
@@ -26,7 +26,7 @@ For identifing which module to use in a certain context a **simpler NLP model fo
 
 # Using the project
 
-A currently  functional (but without the user performance tracker) version of the application is available at this [link](https://intellectia.vercel.app/) the back-end of this web aplication is run with the **Heroku PaaS service**, using **containers and web-workers** for deployment of the Python code.
+A currently  functional (but without the user performance tracker) version of the application is available at this [link](https://intellectia.vercel.app/) the back-end of this web application is run with the **Heroku PaaS service**, using **containers and web-workers** for deployment of the Python code.
 
 This repo contains a local version of the project, using the Gradio UI library for a simple chat view and functionality
 
