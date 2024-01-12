@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "pesquisa_web",
+    "verifica_resposta",
+    "busca_questoes",
+    "chat_padrao"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
