@@ -24,6 +24,10 @@ The modules in question are:
 For identifing which module to use in a certain context a **simpler NLP model for text classification** was created using the **Spacy NLP** library
 
 
+# Results and user feedback:
+
+### According to [feedback](https://docs.google.com/spreadsheets/d/1UaDeCpGzO5sNSsrges_OVAHg9-5cmw7FES6-4ZroLtc/edit?usp=sharing), **over 60% of users said our solution has better and more accurate answers than chatGPT**
+
 # Using the project
 
 A currently  functional (but without the user performance tracker) version of the application is available at this [link](https://intellectia.vercel.app/) the back-end of this web application is run with the **Heroku PaaS service**, using **containers and web-workers** for deployment of the Python code.
@@ -80,6 +84,10 @@ Os módulos em questão são:
 * **Rastreador de desempenho do usuário** para uso em combinação com o recuperador de perguntas, para que os usuários possam ver e acompanhar sua porcentagem de perguntas respondidas corretamente para cada matéria.
 
 Para identificar qual módulo usar em um determinado contexto, um **modelo de NLP/PLN** mais simples para **classificação de texto** foi criado usando a **biblioteca Spacy NLP.**
+
+## Resultados e feedback dos usuários
+
+### De acordo com [feedback](https://docs.google.com/spreadsheets/d/1UaDeCpGzO5sNSsrges_OVAHg9-5cmw7FES6-4ZroLtc/edit?usp=sharing), **Mais de 60% dos usuários falaram que nosso projeto dá respostas mais precisas e úteis que o chatGPT padrão**
 
 ## Usando o projeto
 
